@@ -21,7 +21,7 @@ The AUR occasionally experiences downtime or DDoS attacks that make it inaccessi
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/aur-github-updater.git
+git clone https://github.com/AlenBadel/aur-git-update.git
 cd aur-github-updater
 ```
 
